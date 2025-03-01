@@ -1,0 +1,52 @@
+python hyperparameter_search.py --tp lstm --dataset CiteSeer --rate 0.25
+python hyperparameter_search.py --tp lstm --dataset CiteSeer --rate 0.5
+python hyperparameter_search.py --tp lstm --dataset CiteSeer --rate 0.75
+python hyperparameter_search.py --tp lstm --dataset CiteSeer --rate 1.0
+python hyperparameter_search.py --tp lstm --dataset Cora --rate 0.25
+python hyperparameter_search.py --tp lstm --dataset Cora --rate 0.5
+python hyperparameter_search.py --tp lstm --dataset Cora --rate 0.75
+python hyperparameter_search.py --tp lstm --dataset Cora --rate 1.0
+python hyperparameter_search.py --tp lstm --dataset PubMed --rate 0.25
+python hyperparameter_search.py --tp lstm --dataset PubMed --rate 0.5
+python hyperparameter_search.py --tp lstm --dataset PubMed --rate 0.75
+python hyperparameter_search.py --tp lstm --dataset PubMed --rate 1.0
+python hyperparameter_search.py --tp lstm --dataset Cora_ML --rate 0.25
+python hyperparameter_search.py --tp lstm --dataset Cora_ML --rate 0.5
+python hyperparameter_search.py --tp lstm --dataset Cora_ML --rate 0.75
+python hyperparameter_search.py --tp lstm --dataset Cora_ML --rate 1.0
+python hyperparameter_search.py --tp lstm --dataset Cornell --rate 0.25
+python hyperparameter_search.py --tp lstm --dataset Cornell --rate 0.5
+python hyperparameter_search.py --tp lstm --dataset Cornell --rate 0.75
+python hyperparameter_search.py --tp lstm --dataset Cornell --rate 1.0
+python hyperparameter_search.py --tp lstm --dataset Wisconsin --rate 0.25
+python hyperparameter_search.py --tp lstm --dataset Wisconsin --rate 0.5
+python hyperparameter_search.py --tp lstm --dataset Wisconsin --rate 0.75
+python hyperparameter_search.py --tp lstm --dataset Wisconsin --rate 1.0
+
+
+python hyperparameter_search.py --tp transformer --dataset CiteSeer --rate 0.25
+python hyperparameter_search.py --tp transformer --dataset CiteSeer --rate 0.5
+python hyperparameter_search.py --tp transformer --dataset CiteSeer --rate 0.75
+python hyperparameter_search.py --tp transformer --dataset CiteSeer --rate 1.0
+python hyperparameter_search.py --tp transformer --dataset Cora --rate 0.25
+python hyperparameter_search.py --tp transformer --dataset Cora --rate 0.5
+python hyperparameter_search.py --tp transformer --dataset Cora --rate 0.75
+python hyperparameter_search.py --tp transformer --dataset Cora --rate 1.0
+python hyperparameter_search.py --tp transformer --dataset PubMed --rate 0.25
+python hyperparameter_search.py --tp transformer --dataset PubMed --rate 0.5
+python hyperparameter_search.py --tp transformer --dataset PubMed --rate 0.75
+python hyperparameter_search.py --tp transformer --dataset PubMed --rate 1.0
+python hyperparameter_search.py --tp transformer --dataset Cora_ML --rate 0.25
+python hyperparameter_search.py --tp transformer --dataset Cora_ML --rate 0.5
+python hyperparameter_search.py --tp transformer --dataset Cora_ML --rate 0.75
+python hyperparameter_search.py --tp transformer --dataset Cora_ML --rate 1.0
+python hyperparameter_search.py --tp transformer --dataset Cornell --rate 0.25
+python hyperparameter_search.py --tp transformer --dataset Cornell --rate 0.5
+python hyperparameter_search.py --tp transformer --dataset Cornell --rate 0.75
+python hyperparameter_search.py --tp transformer --dataset Cornell --rate 1.0
+python hyperparameter_search.py --tp transformer --dataset Wisconsin --rate 0.25
+python hyperparameter_search.py --tp transformer --dataset Wisconsin --rate 0.5
+python hyperparameter_search.py --tp transformer --dataset Wisconsin --rate 0.75
+python hyperparameter_search.py --tp transformer --dataset Wisconsin --rate 1.0
+
+
