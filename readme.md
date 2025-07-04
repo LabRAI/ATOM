@@ -1,4 +1,23 @@
-# ATOM: A Framework of Detecting Query-Based Model Extraction Attacks for Graph Neural Networks
+<div align="center">
+
+<h1>[KDD 2025] ATOM: A Framework of Detecting Query-Based Model Extraction Attacks for Graph Neural Networks</h1>
+
+  <div align="center">
+  <a href="https://opensource.org/license/mit-0">
+    <img alt="MIT" src="https://img.shields.io/badge/License-MIT-4E94CE.svg">
+  </a>
+  <a href="https://arxiv.org/abs/2503.16693">
+    <img src="https://img.shields.io/badge/Paper-Arxiv-darkred.svg" alt="Paper">
+  </a>
+  <a href="https://github.com/LabRAI/ATOM">
+    <img src="https://img.shields.io/badge/Project-Page-924E7D.svg" alt="Project">
+  </a>
+   </div>
+</div>
+
+> **ATOM: A Framework of Detecting Query-Based Model Extraction Attacks for Graph Neural Networks**    
+> [Zhan Cheng¹](), [Bolin Shen²](), [Tianming Sha³](), [Yuan Gao¹](), [Shibo Li²](), [Yushun Dong²](https://yushundong.github.io/)  
+> ¹ University of Wisconsin, Madison, ² Florida State University ,³ Arizona State University  
 
 ## Abstract
 
@@ -268,4 +287,16 @@ After running the test commands, a `Data_logs` folder will be automatically gene
 ```bash
 # Real-time log monitoring
 tail -f ./Data_logs/[dataset]_ray_tune_search_results.log
+```
+
+## 📄 **Citation**
+
+```bibtex
+@article{cheng2024atom,
+  title={ATOM: A Framework of Detecting Query-Based Model Extraction Attacks for Graph Neural Networks},
+  author={Cheng, Zhan and Shen, Bolin and Sha, Tianming and Gao, Yuan and Li, Shibo and Dong, Yushun},
+  journal={arXiv preprint arXiv:2503.16693},
+  year={2024},
+  url={https://arxiv.org/abs/2503.16693}
+}
 ```
